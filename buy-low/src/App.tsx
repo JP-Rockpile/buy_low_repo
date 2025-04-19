@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import Header from './components/Header'
 import LinkDirectory from './components/LinkDirectory'
-import { TAGS, WEBSITE_LINKS } from './data/mockData'
+import { TAGS, WEBSITE_LINKS } from './data/links'
 
 function App() {
   const [activeTag, setActiveTag] = useState<string | null>(null)
