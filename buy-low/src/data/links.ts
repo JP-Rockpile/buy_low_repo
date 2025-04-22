@@ -15,7 +15,7 @@ export const WEBSITE_LINKS: WebsiteLink[] = [
   {
     id: '1',
     title: 'MeowDesign8',
-    url: 'https://meowdesign8.com',
+    url: 'https://www.meowdesign8.com',
     description: 'Furniture one stop shop with various home goods options.',
     tags: ['Furniture', 'Home Goods'],
     image: null,
